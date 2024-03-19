@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 <p align="center">
 
 Meu nome é **Frederico Caldeira**.
@@ -26,7 +25,7 @@ Meu nome é **Frederico Caldeira**.
 
 ## :mailbox_with_no_mail: Contact
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://www.allc.dev/imagens/home.gif" width = 250px></picture>
 
 <div align="left">
   <a href="https://www.linkedin.com" target="_blank">
@@ -34,9 +33,8 @@ Meu nome é **Frederico Caldeira**.
   </a>
   <a href="https://wa.me/5531993958213" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-2EC866&?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-logo"/>
-  </a>
+ </a>
 </div>
-
 
 <h1>
 Visitors: <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Dericofredy/count.svg" /></p>
